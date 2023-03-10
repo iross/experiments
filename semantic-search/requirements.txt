@@ -1,0 +1,5 @@
+pandas
+easyrepl
+transformers
+sentence_transformers
+
